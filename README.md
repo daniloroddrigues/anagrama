@@ -11,4 +11,5 @@ Por exmplo, os anagramas potenciais de "biro" são:
 3. rbio rboi ribo riob roib robi
 4. obir obri oibr oirb orbi orib
 
+http://dojopuzzles.com/problemas/exibe/anagramas/
 Traduzido de: http://www.cyber-dojo.com/
